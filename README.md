@@ -1,51 +1,27 @@
-<div align="center">
- <a href="https://elewa.education">
-    <img src="docs/images/repo-banner.png"  alt="Logo" width="600">
-  </a>
-</div>
+# ElewaFrontend
 
-<!-- # The Elewa LMS -->
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
-<div>
+## Development server
 
-  <h2>Learning as simple as having a conversation!</h2>
-  <br/>
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-  <p>
-    The Elewa LMS is worlds first conversational learning manager. The Elewa LMS allows you to build, host and manage courses that run over a conversational platform such as WhatsApp, Telegram, Messenger or our very own web platform. And best of all, it's fully open source!
-  </p>
+## Code scaffolding
 
-  <p>
-    The Elewa LMS packs three elements:
-    
-  - **A conversation builder**. 
-  
-    A drag-and-drop editor for building chatbot conversations/stories.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-  - **Chatbot channel management & hosting**. 
-  
-    The ability to connect different channels to the chatbot manager and to link conversations/stories. This includes channel registration such as WhatsApp Business API registration on the platform.
+## Build
 
-  - **Conversational system**
-  
-    Mirror of chat(bot) conversations with a user and the ability to take over from the bot and have direct chat with a participant and to guide the participants to parts of the application.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-  </p>
+## Running unit tests
 
-</div>
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-<h3><b>Contributing</b></h3>
+## Running end-to-end tests
 
-To contribute, refer to the [iTalanta/Moringa Open-Source](https://github.com/italanta/open-source) Documentation.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-<h3><b>Partners:</b></h3>
+## Further help
 
-  <a href="https://italanta.net/for-devs">
-    <img src="docs/images/italanta-logo.jpg"  alt="Logo" width="200">
-  </a>
-  
-  <br/>
-  
-  <a href="https://moringaschool.com/">
-    &nbsp;<img src="docs/images/moringa-logo.png" alt="Logo" width="200">
-  </a>
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
