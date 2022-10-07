@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'elewa';
+  changeForm:boolean = false;
+
+
+  changeFormHandler(){
+    this.changeForm = !this.changeForm;
+  }
+
+
+
+
 }
